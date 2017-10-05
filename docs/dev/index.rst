@@ -19,13 +19,11 @@ Architecture
    building
    conventions
    frontend
-   git_workflow
    i18n
    plugins
    release_process
    stack
    tests
-   version_numbers
 
 .. _themes:
 
